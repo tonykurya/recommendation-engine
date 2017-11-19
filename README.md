@@ -24,7 +24,7 @@ You'll also need [Anaconda](https://www.continuum.io/downloads) installed (a sci
 
 Now, in the virtualenv (``source activate crec``):
 
-> python web.py
+> python run.py
 
 Then, in a separate terminal window, train the engine:
 
